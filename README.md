@@ -2,6 +2,7 @@
 Выполнил студент группы ИС-32 Рубан Данил
 ## Ход работы 
 Скриншоты выполненой работы
-#### 1 скрин (https://wampi.ru/image/Ra5njr4)
-#### 2 скрин (https://wampi.ru/image/Ra5vrbg)
+![Alt-текст](https://imgur.com/e0a78dc2-c502-45c7-a677-7ee0326f9a59)
+![Alt-текст](https://wampi.ru/image/Ra5vrbg)
+
 
